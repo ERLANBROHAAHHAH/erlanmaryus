@@ -1,4 +1,4 @@
-# Perbedaan Arsitektur Linux dan Windows
+# Perbedaan Arsitektur Linux OS dan Windows
   Arsitektur sistem operasi merujuk pada desain internal suatu sistem operasi, termasuk bagaimana ia mengatur sumber daya sistem, menjalankan program, dan berinteraksi dengan perangkat keras. Linux dan Windows memiliki pendekatan yang berbeda dalam hal arsitektur, yang memengaruhi kinerja, keamanan, dan fleksibilitasnya.
 
 ## 1. Filosofi Dasar
