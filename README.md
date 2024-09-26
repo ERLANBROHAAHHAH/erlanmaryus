@@ -4,6 +4,7 @@ Arsitektur sistem operasi merujuk pada desain internal suatu sistem operasi, ter
 1. Filosofi Dasar
    
 Linux: Berbasis pada prinsip-prinsip open source, modularitas, dan efisiensi. Linux dirancang untuk menjadi fleksibel, dapat disesuaikan, dan stabil.
+
 Windows: Berfokus pada kemudahan penggunaan dan kompatibilitas perangkat lunak. Windows dirancang untuk menjadi sistem operasi yang user-friendly dan memiliki ekosistem perangkat lunak yang luas.
 
 2. Kernel
