@@ -1,7 +1,7 @@
-#perbedaan Arsitektur Linux dan Windows
+# perbedaan Arsitektur Linux dan Windows
 Arsitektur sistem operasi merujuk pada desain internal suatu sistem operasi, termasuk bagaimana ia mengatur sumber daya sistem, menjalankan program, dan berinteraksi dengan perangkat keras. Linux dan Windows memiliki pendekatan yang berbeda dalam hal arsitektur, yang memengaruhi kinerja, keamanan, dan fleksibilitasnya.
 
-##1. Filosofi Dasar
+## 1. Filosofi Dasar
    
 Linux: Berbasis pada prinsip-prinsip open source, modularitas, dan efisiensi. Linux dirancang untuk menjadi fleksibel, dapat disesuaikan, dan stabil.
 
